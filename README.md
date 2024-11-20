@@ -1,4 +1,7 @@
-### 프로젝트 clone 후 실행 방법
+# 프로젝트 clone, 설치, 실행 방법
+
+### `git clone https://github.com/khja240624/screen-impl1`
+원하는 폴더(워크스페이스)에 해당 프로젝트를 클론합니다
 
 ### `cd clone폴더`
 clone 받은 폴더로 이동합니다
